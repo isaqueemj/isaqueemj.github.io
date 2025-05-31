@@ -61,7 +61,7 @@ body {
 }
 
 .caixa:hover {
-    box-shadow: 0 8px 20px rgba(13, 71, 161, 0.3);
+    box-shadow: 0 8px 20px rgba(13, 71, 161, 0.3); 
 }
 
 .rodape {
